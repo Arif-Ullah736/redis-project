@@ -1,5 +1,4 @@
 # Environment Variables
-.env
 
 # Logs
 logs
@@ -46,7 +45,6 @@ node_modules/
 .serverless
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
